@@ -19,9 +19,9 @@
 
     --primary: 3, 0, 30;  /* Background color mainly used for popups */
     --red: 5, 255, 60; /* Use RGB values */
-    --blue: 30, 40, 255; /* Use RGB values */
+    --blue: 50, 255, 120; /* Use RGB values */
     --yellow: 255, 0, 180; /* Use RGB values */
-    --green: 50, 255, 120; /* Use RGB values */
+    --green: 30, 40, 255; /* Use RGB values */
     --dark-green: 255, 0, 180; /* Use RGB values */
 
     --avatar-circle: 0; /* Square avatar */
