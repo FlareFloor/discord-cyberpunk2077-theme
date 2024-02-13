@@ -12,17 +12,17 @@
 @import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
 
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-primary: linear-gradient(180deg, rgba(3,0,20,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-secondary: linear-gradient(180deg, rgba(3,0,20,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --font-primary: 'Rajdhani'; /* Font */
-    --primary-text-color: lightgray; /* Font color */
+    --primary-text-color: white; /* Font color */
 
-    --primary: 23, 13, 22;  /* Background color mainly used for popups */
-    --red: 255, 0, 60; /* Use RGB values */
-    --blue: 114, 234, 248; /* Use RGB values */
-    --yellow: 243, 230, 0; /* Use RGB values */
-    --green: 71, 213, 139; /* Use RGB values */
-    --dark-green: 56, 171, 111; /* Use RGB values */
+    --primary: 3, 0, 30;  /* Background color mainly used for popups */
+    --red: 5, 255, 60; /* Use RGB values */
+    --blue: 30, 40, 255; /* Use RGB values */
+    --yellow: 255, 0, 180; /* Use RGB values */
+    --green: 50, 255, 120; /* Use RGB values */
+    --dark-green: 255, 0, 180; /* Use RGB values */
 
     --avatar-circle: 0; /* Square avatar */
     --avatar-rounded: 5px; /* Square avatars */
