@@ -12,15 +12,15 @@
 @import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
 
 :root {
-    --background-primary: linear-gradient(180deg, rgba(3,0,20,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-primary: linear-gradient(180deg, rgba(3,0,50,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --background-secondary: linear-gradient(180deg, rgba(3,0,20,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --font-primary: 'Rajdhani'; /* Font */
     --primary-text-color: white; /* Font color */
 
     --primary: 3, 0, 35;  /* Background color mainly used for popups */
     --red: 255, 0, 180; /* Use RGB values */
-    --blue: 30, 255, 100; /* Use RGB values */
-    --yellow: 45, 255, 135; /* Use RGB values */
+    --blue: 20, 255, 110; /* Use RGB values */
+    --yellow: 75, 255, 160; /* Use RGB values */
     --green: 30, 40, 255; /* Use RGB values */
     --dark-green: 255, 0, 180; /* Use RGB values */
 
